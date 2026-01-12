@@ -4,3 +4,4 @@ However, yes, I still had to rewrite it.
 I hope you like my result, although I admit that I took the algorithms and some functions directly from other people, but the result was still different and I still had to rewrite the code.
 
 # OCEAN
+![ocean](https://github.com/tornado4444/Volumetric_Clouds/blob/main/ocean.jpg)
