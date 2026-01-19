@@ -8,7 +8,6 @@ I hope you like my result, although I admit that I took the algorithms and some 
 
 # Volumetric Clouds 
 ![clouds](https://github.com/tornado4444/Volumetric_Clouds/blob/main/clouds.jpg)
-So and
 
 # Clouds+Ocean
 ![render](https://github.com/tornado4444/Volumetric_Clouds/blob/main/topo.png)
